@@ -1,0 +1,19 @@
+{
+  "name": "Ballot",
+  "version": "1.0.0",
+  "description": "ballot",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "connect-multiparty": "^1.2.5",
+    "express": "^4.12.4",
+    "mysql": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
